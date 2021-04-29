@@ -1,0 +1,28 @@
+{
+  "name": "Node-JS-Passport-Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STAM0283/Node-JS-Passport-Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STAM0283/Node-JS-Passport-Login/issues"
+  },
+  "homepage": "https://github.com/STAM0283/Node-JS-Passport-Login#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.25.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
